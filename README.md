@@ -1,2 +1,2 @@
 # Rainbow
-Intro to git
+Intro to git  ipnifnri
